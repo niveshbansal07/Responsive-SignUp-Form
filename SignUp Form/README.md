@@ -62,7 +62,7 @@ A pixel-perfect, responsive implementation of login and signup pages with exact 
 
 ## File Structure
 ```
-login-2-/
+signUp/
 ├── index.html          # Main HTML file with both pages
 ├── styles.css          # Complete CSS styling
 └── README.md           # Project documentation
@@ -88,3 +88,4 @@ login-2-/
 - External images: Unsplash background, Wikimedia Commons icons
 - No JavaScript frameworks required
 - Pure HTML, CSS, and minimal vanilla JavaScript for page switching
+
